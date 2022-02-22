@@ -45,6 +45,10 @@ input {
 }
 
 input {
+<<<<<<< HEAD
 	background-color: rgb(4, 35, 128);
+=======
+	background-color: rgb(28, 47, 105);
+>>>>>>> 44cd4711c5f551b6e050992a8db9d1cb7eff0310
 	border-color: white;
 }
