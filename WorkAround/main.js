@@ -1,8 +1,15 @@
 // TODO: Add your import statements here.
+import { getRoles, getCompanies } from "./module/salaryData.js";
+import {
+	getAverageSalaryByRole,
+	getAverageSalaryByCompany,
+	getSalaryAtCompany,
+	getIndustryAverageSalary,
+} from "./module/workAroundModule.js";
 
 // TODO: Get the companies and roles using the salaryData module.
-const companies = [];
-const roles = [];
+const companies = getCompanies();
+const roles = getRoles();
 
 // Create input buttons for every company and role represented in the data.
 renderInputButtons(companies, "company");
