@@ -1,6 +1,5 @@
 // TODO: Add your import statements here.
 
-import { getRoles, getCompanies } from "./module/salaryData.js";
 import {
 	getAverageSalaryByRole,
 	getAverageSalaryByCompany,
