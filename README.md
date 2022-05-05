@@ -5,3 +5,5 @@ I make this challenges to improve my javascript skill, in case you need it for y
 - [WordSuggestion](https://raview69.github.io/js_challenges/WordSuggestion/)
 - [ShortlinkMaker](https://raview69.github.io/js_challenges/ShortlinkMaker/)
 - [Wanderlust](https://raview69.github.io/js_challenges/Wanderlust/)
+- [FilmFinder](https://raview69.github.io/js_challenges/FilmFinder/)
+- [NumberGuesser](https://raview69.github.io/js_challenges/NumberGuesser/)
